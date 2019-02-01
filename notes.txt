@@ -1,0 +1,7 @@
+https://canvas-gauges.com/
+https://www.npmjs.com/package/canvas-gauges
+https://www.chartjs.org/samples/latest/
+https://www.adafruit.com/product/381
+https://www.npmjs.com/package/ds18b20-raspi
+https://github.com/jperkin/node-rpio
+https://www.jannehonkonen.com/making-reliable-raspberry-pi-a-comprehensive-guide
